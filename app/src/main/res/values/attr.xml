@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 圆形进度条 -->
+    <declare-styleable name="myRoundProgress">
+        <attr name="myRoundColor" format="color" />
+        <attr name="myRoundProgressColor" format="color" />
+        <attr name="myRoundWidth" format="dimension" />
+        <attr name="myRoundTextSize" format="dimension" />
+    </declare-styleable>
+</resources>
